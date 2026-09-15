@@ -47,8 +47,3 @@ The system uses **Layered Architecture**, consisting of:
 - Data Layer
 
 ---
-
-## Student Details
-
-**Name:** B Nuthan  
-**SRN:** PES1UG24CS106
