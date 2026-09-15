@@ -25,8 +25,6 @@ This lab includes:
 - Use-case diagram
 - Use-case descriptions
 
-[View Lab 1](./Lab-1/)
-
 ### Lab 3 – Architecture Selection and UML Component Diagram
 
 This lab includes:
@@ -37,7 +35,6 @@ This lab includes:
 - Five system components
 - Four system interfaces
 
-[View Lab 3](./Lab-3/)
 
 ---
 
