@@ -1,31 +1,57 @@
-# Software-Engineering-Lab
+# Software Engineering Lab 
 
-# Lab 1 – Requirements Engineering
+## Hostel Maintenance & Issue Ticketing System
 
-## Project
+**Name:** B Nuthan  
+**SRN:** PES1UG24CS106   
 
-**Hostel Maintenance & Issue Ticketing System**
+---
+
+## Project Overview
+
+The Hostel Maintenance & Issue Ticketing System is designed to help hostel residents report maintenance issues and track their status. Maintenance wardens can view and assign tickets, while maintenance staff can update ticket statuses.
+
+---
+
+## Laboratory Work
+
+### Lab 1 – Requirements Engineering
+
+This lab includes:
+
+- Problem statement
+- Functional requirements
+- Non-functional requirements
+- Use-case diagram
+- Use-case descriptions
+
+[View Lab 1](./Lab-1/)
+
+### Lab 3 – Architecture Selection and UML Component Diagram
+
+This lab includes:
+
+- Selection of Layered Architecture
+- Architecture justification
+- UML component diagram
+- Five system components
+- Four system interfaces
+
+[View Lab 3](./Lab-3/)
+
+---
+
+## Selected Architecture
+
+The system uses **Layered Architecture**, consisting of:
+
+- Presentation Layer
+- Business Layer
+- Data Layer
+
+---
 
 ## Student Details
 
-- **Name:** B Nuthan
-- **SRN:** PES1UG24CS106
-- **Course:** Software Engineering
-
-## Description
-
-This lab focuses on the requirements of the Hostel Maintenance & Issue Ticketing System. The system allows hostel residents to submit maintenance issues and view ticket statuses. Maintenance wardens can view and assign tickets, while maintenance staff can update ticket statuses.
-
-## Main Functional Requirements
-
-1. Residents can submit maintenance issues with room number, category, and description.
-2. Maintenance wardens can view submitted maintenance tickets.
-3. Maintenance wardens can assign tickets to maintenance staff.
-4. Maintenance staff can update ticket status to In Progress or Resolved.
-5. Residents can view the current status of their submitted tickets.
-6. The system validates issue details before submission.
-7. The system supports role-based access.
-
-## Lab Deliverables
-
-The Lab 1 folder contains the requirements document, use-case diagram, and use-case descriptions.
+**Name:** B Nuthan  
+**SRN:** PES1UG24CS106
